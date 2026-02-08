@@ -219,7 +219,7 @@ img {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.75));
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75));
     background-repeat: no-repeat;
     background-position-x: 100%;
     background-size: 10% 100%;
